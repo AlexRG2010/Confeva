@@ -31,3 +31,13 @@ nav {
  nav a:hover {
     background-color: #555;
  }
+
+.estrella{
+   size-adjust: 500px;
+   display: inline;
+   color: deepskyblue;
+}
+
+.estrella:hover{
+   color: cornsilk;
+}
