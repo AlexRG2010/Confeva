@@ -1,3 +1,4 @@
+
 html{
     
     font-family: 'Montserrat', sans-serif;
@@ -41,3 +42,20 @@ nav {
 .estrella:hover{
    color: cornsilk;
 }
+
+.tiktok{
+   color: gold;
+}
+
+.tiktok:hover{
+   color: blue;
+}
+
+.container{
+   display: flex;
+}
+
+.container p{
+   padding: 200px 0 0 30px;
+}
+
